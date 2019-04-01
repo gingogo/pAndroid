@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <!-- 安卓部署的app后 下方的名字 -->
     <string name="app_name">helloworld!!!!</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>

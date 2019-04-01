@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2.dial01第一种点击事件，内部类方式</string>
+    <string name="action_settings">Settings</string>
+    <string name="inphone">请输入手机号码</string>
+    <string name="btndial">拨打</string>
+
+</resources>
