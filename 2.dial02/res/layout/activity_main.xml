@@ -8,8 +8,8 @@
         android:id="@+id/tvinphone"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:textSize="19sp"
-        android:text="@string/inphone" />
+        android:text="@string/inphone"
+        android:textSize="19sp" />
 
     <EditText
         android:id="@+id/etinphone"
@@ -17,22 +17,18 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/tvinphone"
-        android:layout_marginTop="30dp" 
-        android:inputType="phone"
-        >
-
+        android:layout_marginTop="30dp"
+        android:inputType="phone" >
     </EditText>
 
     <Button
-          android:id="@+id/btndial"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_alignParentLeft="true"
+        android:id="@+id/btndial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
         android:layout_below="@+id/etinphone"
         android:layout_marginTop="30dp"
-        android:text="@string/btndial"
-        >
-          
+        android:text="@string/btndial" >
     </Button>
 
     <Button
